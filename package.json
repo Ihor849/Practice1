@@ -1,0 +1,19 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ihor849/front_end.git"
+  },
+  "author": "Ihor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ihor849/front_end/issues"
+  },
+  "homepage": "https://github.com/Ihor849/front_end#readme"
+}
