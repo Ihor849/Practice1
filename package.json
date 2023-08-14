@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "cross-env dima=meet galia=ragu node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ihor849/front_end/issues"
   },
-  "homepage": "https://github.com/Ihor849/front_end#readme"
+  "homepage": "https://goitacademy.github.io/front_end/",
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
